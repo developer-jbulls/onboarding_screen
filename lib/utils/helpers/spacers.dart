@@ -1,0 +1,33 @@
+import 'package:flutter/material.dart';
+
+const space2v = SizedBox(height: 2.0);
+const space4v = SizedBox(height: 4.0);
+const space6v = SizedBox(height: 6.0);
+const space8v = SizedBox(height: 8.0);
+const space10v = SizedBox(height: 10.0);
+const space12v = SizedBox(height: 12.0);
+const space14v = SizedBox(height: 14.0);
+const space16v = SizedBox(height: 16.0);
+const space18v = SizedBox(height: 18.0);
+const space20v = SizedBox(height: 20.0);
+const space22v = SizedBox(height: 22.0);
+const space24v = SizedBox(height: 24.0);
+const space36v = SizedBox(height: 36.0);
+const space48v = SizedBox(height: 48.0);
+const space60v = SizedBox(height: 60.0);
+
+const space2h = SizedBox(width: 2.0);
+const space4h = SizedBox(width: 4.0);
+const space6h = SizedBox(width: 6.0);
+const space8h = SizedBox(width: 8.0);
+const space10h = SizedBox(width: 10.0);
+const space12h = SizedBox(width: 12.0);
+const space14h = SizedBox(width: 14.0);
+const space16h = SizedBox(width: 16.0);
+const space18h = SizedBox(width: 18.0);
+const space20h = SizedBox(width: 20.0);
+const space22h = SizedBox(width: 22.0);
+const space24h = SizedBox(width: 24.0);
+const space36h = SizedBox(width: 36.0);
+const space48h = SizedBox(width: 48.0);
+const space60h = SizedBox(width: 60.0);
